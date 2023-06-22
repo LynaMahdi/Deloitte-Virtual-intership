@@ -1,0 +1,15 @@
+﻿{
+    "ID": "1",
+    "LastName": "DOE01",
+    "FirstName": "JANE01",
+    "City": "Los Angeles",
+    "State": "California",
+    "Gender": "Female",
+    "StudentStatus": "Graduate",
+    "Major": "Politics",
+    "Country": "US",
+    "Age": "30",
+    "SAT": "2263",
+    "Grade ": "67",
+    "Height": "61"
+}
